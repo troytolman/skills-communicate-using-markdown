@@ -12,5 +12,10 @@
 for (int i = 0; i < 5; i++) {
   System.out.println("Hello World");
 }
-``` 
+```
+
+## Step 4
+- [x] Walk the dog
+- [x] Code 
+- [ ] Sleep
 
